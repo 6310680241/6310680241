@@ -2,9 +2,9 @@
 
 ```                                                    
                                                                
-                                                   Student ID
-                                                   6310680241
-                                           E-mail: pleumrinrin@gmail.com 
+                                              Student ID
+                                              6310680241
+                                     E-mail: pleumrinrin@gmail.com 
                                                    
 ```
 

@@ -1,7 +1,13 @@
-# SORACHAT WORASAN
+#           **SORACHAT WORASAN**:sparkling_heart:
 
-```
-  Student ID : 6310680241
+```                                                    
+                                                               
+                                                            Student ID
+                                                            6310680241
+                                                   E-mail: pleumrinrin@gmail.com 
+                                                   
 ```
 
-![SORACHAT](https://ipfs.io/ipfs/QmUQNPpKHxBXFHySPKud58NVayzjgBkHxth4YxdHHDCVVt)
+### MY [FACEBOOK](https://www.facebook.com/pleumii/) ACCOUNT.
+
+![https://www.facebook.com/pleumii/](./mypic.jpeg)
